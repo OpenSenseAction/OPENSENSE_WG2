@@ -7,7 +7,9 @@ name | description | language | packaged | CI | License
 -----|-------------|----------|----------|----|--------
 | [pycomlink](https://github.com/pycomlink/pycomlink) | CML processing methods | Python | pypi, conda-forge | yes | BSD-3-clause 
 | [RAINLINK](https://github.com/overeem11/RAINLINK) | CML processing methods | R | none | no | (GPL v3)??? 
-| to be continued... | | | | |
+| [TITAN](https://github.com/metno/TITAN/) | Automatic quality control of in-situ observations | R, C++ | none | tests, but no CI | GPL v3 |
+| [PWSQC](https://github.com/LottedeVos/PWSQC)| Quality control of PWS data | R | none | no | (cc-by-sa 4.0) |
+| to be continued... | | | |  |
 
 ## Pathway towards better accessibility of software
 
