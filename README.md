@@ -12,6 +12,7 @@ name | description | language | packaging | CI | License
 | [PyNNcml](https://github.com/haihabi/PyNNcml)| CML processing methods | Python | none | yes | MIT |
 | [Rcmlrain](https://github.com/fenclmar/Rcmlrain)| CML processing methods | R | none | no | MIT |
 | [pws-pyqc](https://github.com/AbbasElHachem/pws-pyqc)| Quality control of PWS data | Python | none | no | GPL v3 |
+| [intense-qc](https://github.com/nclwater/intense-qc) | Quality control of hourly rainfall data | Python | pypi | yes | None
 | to be continued... | | | |  |
 
 ## Pathway towards better accessibility of software
